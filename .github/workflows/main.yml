@@ -8,4 +8,4 @@ jobs:
       - uses: actions/checkout@v1
       - uses: ./action-a
         with:
-          MY_NAME: "DB3765"
+          MY_NAME: "Mona"
